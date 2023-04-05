@@ -23,9 +23,6 @@
   - [Awards](#awards)
   - [Volunteering](#volunteering)
 
-[LinkedIn](https://www.linkedin.com/in/hamzadehaini/)
-[GitHub](https://github.com/hdehaini)
-
 ## About Me
 --------
 
