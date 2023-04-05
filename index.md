@@ -1,5 +1,4 @@
 # **Hamza Dehaini**
-===
 
 ## `Hello World!`
 
@@ -53,7 +52,6 @@ Week Checklist:
 - [ ] Week 10
 
 ## Resume
-===
 
 ## Experience
 ----------
