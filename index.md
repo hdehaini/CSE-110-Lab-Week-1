@@ -1,6 +1,8 @@
 # **Hamza Dehaini**
 =====
 
+## `Hello World!`
+
 ![Profile Picture](profile.jfif)
 
 *[LinkedIn](https://www.linkedin.com/in/hamzadehaini/)*
@@ -11,6 +13,7 @@
 [Resume](resume.md)
 
 - [**Hamza Dehaini**](#hamza-dehaini)
+  - [`Hello World!`](#hello-world)
   - [About Me](#about-me)
   - [CSE 110 Goals](#cse-110-goals)
   - [Resume](#resume)
@@ -108,27 +111,8 @@ Week Checklist:
     June 2022 to July 2022
     
     *   An application that uses React and AWS Step Function built up of AWS Lambda functions with AI libraries to convert user's text to English and provide sentiment analysis using an Azure sentiment analysis API.
-    *   Sample code for translation Lambda function:
-    ```
-    import boto3
-    import json
-
-    translate_client = boto3.client('translate')
 
 
-    def lambda_handler(event, context):
-        review_text = event['text']
-        translate_response = translate_client.translate_text(
-            Text=review_text,
-            SourceLanguageCode='auto',
-            TargetLanguageCode='en'
-        )
-        print(translate_response)
-        return{
-            "text": translate_response['TranslatedText']
-
-        }
-    ```
 *   ### Migrated YouTube Video to AWS S3
     
     May 2022 to June 2022
