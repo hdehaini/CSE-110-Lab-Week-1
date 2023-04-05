@@ -1,11 +1,14 @@
-Hamza Dehaini
+**Hamza Dehaini**
 =============
 
 ![Profile Picture](profile.jfif)
 
-Web Developer
+*[LinkedIn](https://www.linkedin.com/in/hamzadehaini/)*
 
-- [Hamza Dehaini](#hamza-dehaini)
+
+*[GitHub](https://github.com/hdehaini)*
+
+- [**Hamza Dehaini**](#hamza-dehaini)
   - [About Me](#about-me)
   - [CSE 110 Goals](#cse-110-goals)
   - [Experience](#experience)
@@ -32,7 +35,7 @@ CSE 110 Goals
 
 
 Week Checklist:
-- [x] Week 1
+- [x] ~~Week 1~~
 - [ ] Week 2
 - [ ] Week 3
 - [ ] Week 4
