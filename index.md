@@ -1,4 +1,4 @@
-**Hamza Dehaini**
+# **Hamza Dehaini**
 =============
 
 ![Profile Picture](profile.jfif)
@@ -11,6 +11,7 @@
 - [**Hamza Dehaini**](#hamza-dehaini)
   - [About Me](#about-me)
   - [CSE 110 Goals](#cse-110-goals)
+  - [Resume](#resume)
   - [Experience](#experience)
   - [Education](#education)
   - [Skills](#skills)
@@ -21,12 +22,12 @@
 [LinkedIn](https://www.linkedin.com/in/hamzadehaini/)
 [GitHub](https://github.com/hdehaini)
 
-About Me
+## About Me
 --------
 
 > A Computer Science student at the University of California, San Diego seeking a technical position to enhance my computer and programming skills, and advance my soft skills. I have multiple years of experience with various programming languages as well as professional experience in cloud architectures and software engineering, such as AWS and React Js.
 
-CSE 110 Goals
+## CSE 110 Goals
 --------
 
 1. Learn an introduction to Software Enineering.
@@ -46,7 +47,10 @@ Week Checklist:
 - [ ] Week 9
 - [ ] Week 10
 
-Experience
+## Resume
+=============
+
+## Experience
 ----------
 
 *   ### IntelligenceX - Software Developer Intern
@@ -69,7 +73,7 @@ Experience
     *   Presided over inventory and expenses using Quick Books
     *   Accountable for inventory and storage maintenance
 
-Education
+## Education
 ---------
 
 *   ### University of California, San Diego - Bachelor of Science Computer Science
@@ -78,13 +82,13 @@ Education
     
     *   Advanced Data Structures, Advanced Algorithms, Linear Algebra, Calculus, Statistics Data
 
-Skills
+## Skills
 ------
 
 *   Technical: AWS Lambda, REST APIs, Amazon S3, Amazon Web Services (AWS), React.js, Amazon DynamoDB, Mocha (JavaScript Framework), Chai.js, Advanced Data structures, Advanced Algorithms, Linear Algebra, Calculus, Statistics Data, Front-end Engineering, Distributed systems, Backend development, Natural Language Processing
 *   Software Languages: Python, JavaScript, Java, C, C++
 
-Projects
+## Projects
 --------
 
 *   ### Diffbot Article Extraction Provider
@@ -108,7 +112,7 @@ Projects
     
     *   Inputs downloaded YouTube Video, renames it in a preferred format, then uploads it to an AWS S3 bucket using AWS libraries.
 
-Awards
+## Awards
 ------
 
 *   ### Society of American Military Engineers (SAME) · San Diego Post of the Society of American Military Engineers
@@ -127,7 +131,7 @@ Awards
     
     *   Honorable mention for making a project that saves water from watering trees in dry spell areas
 
-Volunteering
+## Volunteering
 ------------
 
 *   ### MCS · Delivery Coordinator
