@@ -26,7 +26,7 @@
 ## About Me
 --------
 
-> A Computer Science student at the University of California, San Diego seeking a technical position to enhance my computer and programming skills, and advance my soft skills. I have multiple years of experience with various programming languages as well as professional experience in cloud architectures and software engineering, such as AWS and React Js.
+> A Computer Science student at the University of California, San Diego seeking a technical position to enhance my computer and programming skills, and advance my soft skills. I have multiple years of experience with various programming languages as well as professional experience in cloud architectures and software engineering, such as AWS and React Js. I am excited to take CSE 110 this quarter!
 
 ## CSE 110 Goals
 --------
