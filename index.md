@@ -1,14 +1,13 @@
-Hamza Dehaini - Personal Portfolio   
-
-![Profile Picture](profile.jfif)
-
 Hamza Dehaini
 =============
+
+![Profile Picture](profile.jfif)
 
 Web Developer
 
 - [Hamza Dehaini](#hamza-dehaini)
   - [About Me](#about-me)
+  - [CSE 110 Goals](#cse-110-goals)
   - [Experience](#experience)
   - [Education](#education)
   - [Skills](#skills)
@@ -16,10 +15,33 @@ Web Developer
   - [Awards](#awards)
   - [Volunteering](#volunteering)
 
+[LinkedIn](https://www.linkedin.com/in/hamzadehaini/)
+[GitHub](https://github.com/hdehaini)
+
 About Me
 --------
 
-A Computer Science student at the University of California, San Diego seeking a technical position to enhance my computer and programming skills, and advance my soft skills. I have multiple years of experience with various programming languages as well as professional experience in cloud architectures and software engineering, such as AWS and React Js.
+> A Computer Science student at the University of California, San Diego seeking a technical position to enhance my computer and programming skills, and advance my soft skills. I have multiple years of experience with various programming languages as well as professional experience in cloud architectures and software engineering, such as AWS and React Js.
+
+CSE 110 Goals
+--------
+
+1. Learn an introduction to Software Enineering.
+2. Increase my soft skills in communication.
+3. To work well with teams in an oranized matter.
+
+
+Week Checklist:
+- [x] Week 1
+- [ ] Week 2
+- [ ] Week 3
+- [ ] Week 4
+- [ ] Week 5
+- [ ] Week 6
+- [ ] Week 7
+- [ ] Week 8
+- [ ] Week 9
+- [ ] Week 10
 
 Experience
 ----------
